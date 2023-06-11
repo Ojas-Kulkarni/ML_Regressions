@@ -19,5 +19,5 @@ plt.title('Simple Linear Regression')
 plt.show()
 
 # Print the coefficients of the model
-print("Intercept:", reg.intercept_)
-print("Coefficient:", reg.coef_[0])
+print("Intercept:", lin_reg.intercept_)
+print("Coefficient:", lin_reg.coef_[0])
